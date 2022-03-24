@@ -92,7 +92,7 @@ body{
 .form #submit{
     outline: none;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: bolder;
     width: 100px;
     color: rgb(16, 0, 46);
     height: 30px;
